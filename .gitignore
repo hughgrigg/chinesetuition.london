@@ -1,0 +1,5 @@
+node_modules/
+
+.awspublish-chinesetuition.london
+*.sublime-project
+*.sublime-workspace
